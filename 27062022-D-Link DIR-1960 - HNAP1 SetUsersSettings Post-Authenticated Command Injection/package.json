@@ -1,0 +1,20 @@
+{
+  "name": "hnap",
+  "version": "2.1.0",
+  "description": "Reads power consumption and temperature from D-Link DSP-W215",
+  "main": "app.js",
+  "dependencies": {
+    "then-request": "latest",
+    "xmldom": "^0.1.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bikerp/dsp-w215-hnap.git"
+  },
+  "author": "bikerp",
+  "license": "MIT"
+}
